@@ -1,0 +1,29 @@
+commit 5661e8c3f2f34cd5497a5a35b7d675d314339280
+Author: benka-hoang <hoangthiennhan777@gmail.com>
+Date:   Fri Nov 20 23:49:33 2026 +0700
+
+    del - Week05: Change file name
+
+commit c26b14ef8d645b5f54e8f43afdcef816101abf00
+Author: benka-hoang <hoangthiennhan777@gmail.com>
+Date:   Fri Nov 20 23:48:57 2026 +0700
+
+    add - Week 05: Readme
+
+commit f38e6c37b87b0d2088af019c21af5104dac1ee31
+Author: benka-hoang <hoangthiennhan777@gmail.com>
+Date:   Fri Nov 20 23:47:06 2026 +0700
+
+    add - Week 05: Source code screenshot
+
+commit d4f38b2fd7f5cc4330e1f696574108757a312f03
+Author: benka-hoang <hoangthiennhan777@gmail.com>
+Date:   Fri Nov 20 23:44:42 2026 +0700
+
+    add - Week05: Screenshot Exercise 01
+
+commit ef9cd890ce5b6fafa51f40748c5b84271d49e4a4
+Author: benka-hoang <hoangthiennhan777@gmail.com>
+Date:   Fri Nov 20 23:05:31 2026 +0700
+
+    add - Week04: Git log
